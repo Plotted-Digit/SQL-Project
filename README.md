@@ -1,5 +1,15 @@
 # SQL Project – Adventureworks
-## Objective:
+
+
+## Table of Contents
+- [Objective](#Objective)
+- [Prerequisites](#Prerequisites)
+- [Database](#Database)
+- [Deliverables](#Deliverables)
+- [Problem Statement](#Problem-Statement)
+
+
+## Objective
 This project aims to provide you with hands-on experience in working on
 a Live project for a business. It is a blend of being able to apply the SQL concepts
 learnt over the course as well as understand how to interpret business case studies
@@ -17,6 +27,9 @@ practice dataset with multiple aspects like – Sales, Products, Employees, Terr
 Customers etc.
 
 The database diagram is also provided for getting a better understanding of the data.
+
+
+## Database Diagram
 ![The database diagram](Adventureworks-Database-Digram-2.jpg)
 
 ## Deliverables
