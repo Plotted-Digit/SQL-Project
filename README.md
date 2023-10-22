@@ -6,6 +6,7 @@
 - [Prerequisites](#Prerequisites)
 - [Database](#Database)
 - [Deliverables](#Deliverables)
+- [Database Diagram](#Database-Diagram)
 - [Problem Statement](#Problem-Statement)
 
 
