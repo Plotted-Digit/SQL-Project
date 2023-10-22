@@ -6,6 +6,7 @@ A comprehensive analysis of business data using SQL queries to solve critical pr
 - [Overview](#overview)
 - [Deliverables](#Deliverables)
 - [Problem Statements](#Problem-Statements)
+- [Explanation of Code](#Explanation-of-Code)
 - [Presentation and Findings](#Presentation-and-Findings)
 
 ## Overview
@@ -23,13 +24,13 @@ The project's deliverables include the following:
 
 ## Problem Statements
 
-### 1. Top 10 Highest Selling Products
+### Top 10 Highest Selling Products
 **Problem Statement:** Calculate the Sales by Sales Reason Name and Reason Type. Also find the
 best and worst performing Sales Reason in terms of Sales
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Bar chart to depict this information.
 
-**Explanation of Code:** 
+## Explanation of Code 
 
 ```sql
 -- SQL Query for Problem Statement 2
