@@ -62,11 +62,13 @@ charts.
 Create a Pie chart to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)
 
+
 - 2. Who are the top 10 highest spending customers in the data along with their
 address and address type information?
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Bar chart to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2)
+
 
 - 3. Calculate the Sales by Sales Reason Name and Reason Type. Also find the
 best and worst performing Sales Reason in terms of Sales
@@ -74,11 +76,13 @@ best and worst performing Sales Reason in terms of Sales
 Create a Bar chart to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3)
 
+
 - 4. Calculate the average number of orders shipped by different Ship methods for
 each month and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Line chart to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4)
+
 
 - 5. Calculate the count of orders, maximum and minimum shipped by different
 Credit Card Type for each month and year
@@ -86,11 +90,13 @@ Credit Card Type for each month and year
 Create a chart as per your choice to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)
 
+
 - 6. Which are the top 3 highest selling Sales Person by Territory for each month
 and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a chart as per your choice to depict this information.
 [Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)
+
 
 - 7. Calculate the count of employees and average tenure per department name
 and department group name.
