@@ -8,7 +8,7 @@
 - [Database Diagram](#Database-Diagram)
 - [Deliverables](#Deliverables)
 - [Problem Statement](#Problem-Statement)
-
+- [Solution of 1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)
 
 ## Objective
 This project aims to provide you with hands-on experience in working on
