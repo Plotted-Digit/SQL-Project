@@ -8,6 +8,7 @@ A comprehensive analysis of business data using SQL queries to solve critical pr
 - [Problem Statements](#Problem-Statements)
 - [Explanation of Code](#Explanation-of-Code)
 - [Presentation and Findings](#Presentation-and-Findings)
+- [Navigation](#Navigation)
 
 ## Overview
 
@@ -56,3 +57,10 @@ THE TABLE OF OUTPUT DATA
 THE PIE CHART CREATED WITH OUTPUT DATA
 
 ![Pie Chart of Data](PIE_Chart_Question_1.png)
+
+
+
+
+## Navigation
+
+[Main Page](https://github.com/Plotted-Digit/SQL-Project/)  [1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)  [2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2)  [3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3)  [4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4)  [5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)  [6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)  [7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
