@@ -57,34 +57,47 @@ from the data and the chart depicting the output
 Solve each of the following business problem statements by
 writing SQL queries. The output data from the queries could be copied and used for
 charts.
-1. What are the top 10 highest selling products in the database?
+- 1. What are the top 10 highest selling products in the database?
 (Hint - Use salesorderdetail as base table, LineTotal as Sales)
-Create a Pie chart to depict this information.2. Who are the top 10 highest spending customers in the data along with their
+Create a Pie chart to depict this information.
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)
+
+- 2. Who are the top 10 highest spending customers in the data along with their
 address and address type information?
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Bar chart to depict this information.
-3. Calculate the Sales by Sales Reason Name and Reason Type. Also find the
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2)
+
+- 3. Calculate the Sales by Sales Reason Name and Reason Type. Also find the
 best and worst performing Sales Reason in terms of Sales
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Bar chart to depict this information.
-4. Calculate the average number of orders shipped by different Ship methods for
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3)
+
+- 4. Calculate the average number of orders shipped by different Ship methods for
 each month and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Line chart to depict this information.
-5. Calculate the count of orders, maximum and minimum shipped by different
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4)
+
+- 5. Calculate the count of orders, maximum and minimum shipped by different
 Credit Card Type for each month and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a chart as per your choice to depict this information.
-6. Which are the top 3 highest selling Sales Person by Territory for each month
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)
+
+- 6. Which are the top 3 highest selling Sales Person by Territory for each month
 and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a chart as per your choice to depict this information.
-7. Calculate the count of employees and average tenure per department name
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)
+
+- 7. Calculate the count of employees and average tenure per department name
 and department group name.
 (Hint - Use employee as base table, Tenure is calculated in days – from Hire
 date to today)
 Create a table to depict this information.
-
+[Check the Solution](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
 
 ## Navigation
 
