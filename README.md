@@ -5,8 +5,8 @@
 - [Objective](#Objective)
 - [Prerequisites](#Prerequisites)
 - [Database](#Database)
-- [Deliverables](#Deliverables)
 - [Database Diagram](#Database-Diagram)
+- [Deliverables](#Deliverables)
 - [Problem Statement](#Problem-Statement)
 
 
