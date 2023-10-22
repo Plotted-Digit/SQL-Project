@@ -17,7 +17,7 @@ practice dataset with multiple aspects like – Sales, Products, Employees, Terr
 Customers etc.
 
 The database diagram is also provided for getting a better understanding of the data.
-![The database diagram](Adventureworks-Database-Digram-2.webp)
+![The database diagram](Adventureworks-Database-Digram-2.jpg)
 
 ## Deliverables
 The learner should prepare the following deliverables as an output
