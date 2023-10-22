@@ -1,4 +1,4 @@
-#SQL Project – Adventureworks
+# SQL Project – Adventureworks
 ## Objective:
 This project aims to provide you with hands-on experience in working on
 a Live project for a business. It is a blend of being able to apply the SQL concepts
