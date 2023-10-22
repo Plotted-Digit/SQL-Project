@@ -9,6 +9,12 @@
 - [Deliverables](#Deliverables)
 - [Problem Statement](#Problem-Statement)
 - [Solution of 1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)
+- [Solution of 2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2)
+- [Solution of 3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3)
+- [Solution of 4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4)
+- [Solution of 5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)
+- [Solution of 6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)
+- [Solution of 7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
 
 ## Objective
 This project aims to provide you with hands-on experience in working on
