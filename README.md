@@ -15,6 +15,8 @@
 - [Solution of 5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)
 - [Solution of 6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)
 - [Solution of 7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
+- [Navigation](#Navigation)
+
 
 ## Objective
 This project aims to provide you with hands-on experience in working on
@@ -82,3 +84,8 @@ and department group name.
 (Hint - Use employee as base table, Tenure is calculated in days – from Hire
 date to today)
 Create a table to depict this information.
+
+
+## Navigation
+
+- [Main Page](https://github.com/Plotted-Digit/SQL-Project/) - [1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1) - [2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2) - [3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3) - [4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4) - [5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5) - [6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6) - [7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
