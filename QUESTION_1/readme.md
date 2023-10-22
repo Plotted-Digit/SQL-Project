@@ -6,6 +6,7 @@ A comprehensive analysis of business data using SQL queries to solve critical pr
 - [Overview](#overview)
 - [Deliverables](#Deliverables)
 - [Problem Statements](#Problem-Statements)
+- [Explanation of Code](#Explanation-of-Code)
 - [Presentation and Findings](#Presentation-and-Findings)
 
 ## Overview
@@ -23,10 +24,10 @@ The project's deliverables include the following:
 
 ## Problem Statements
 
-### 1. Top 10 Highest Selling Products
+### Top 10 Highest Selling Products
 **Problem Statement:** Determine the top 10 highest selling products in the database using the `salesorderdetail` table and `LineTotal` as sales. Create a Pie chart to visualize this information.
 
-**Explanation of Code:** 
+## Explanation of Code 
 
 ```sql
 -- SQL Query for Problem Statement 1
