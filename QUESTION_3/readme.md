@@ -27,7 +27,7 @@ The project's deliverables include the following:
 
 ## Problem Statements
 
-### Top 10 Highest Selling Products
+### Performance of sales for each sale reason
 **Problem Statement:** Calculate the Sales by Sales Reason Name and Reason Type. Also find the
 best and worst performing Sales Reason in terms of Sales
 (Hint - Use salesorderheader as base table, TotalDue as sales)

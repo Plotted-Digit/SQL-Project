@@ -27,11 +27,11 @@ The project's deliverables include the following:
 
 ## Problem Statements
 
-### Top 10 Highest Selling Products
-**Problem Statement:** Calculate the Sales by Sales Reason Name and Reason Type. Also find the
-best and worst performing Sales Reason in terms of Sales
+### Avarage number of order for each shipping method
+**Problem Statement:** Calculate the average number of orders shipped by different Ship methods for
+each month and year
 (Hint - Use salesorderheader as base table, TotalDue as sales)
-Create a Bar chart to depict this information.
+Create a Line chart to depict this information.
 
 ## Explanation of Code 
 

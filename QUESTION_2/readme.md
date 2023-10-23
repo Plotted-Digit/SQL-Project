@@ -26,9 +26,9 @@ The project's deliverables include the following:
 
 ## Problem Statements
 
-### Top 10 Highest Selling Products
-**Problem Statement:** Calculate the Sales by Sales Reason Name and Reason Type. Also find the
-best and worst performing Sales Reason in terms of Sales
+### Top 10 Highest Spending Customers
+**Problem Statement:** Who are the top 10 highest spending customers in the data along with their
+address and address type information?
 (Hint - Use salesorderheader as base table, TotalDue as sales)
 Create a Bar chart to depict this information.
 
