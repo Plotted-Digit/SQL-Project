@@ -23,7 +23,7 @@ The project's deliverables include the following:
 
 - **SQL Query File**: Contains the SQL queries used to generate data for solving each problem statement.
 - **OUTPUT**: OUTPUT TABLE.
-- **BAR CHART**: BAR CHART.
+- **LINE CHART**: LINE CHART.
 
 ## Problem Statements
 
