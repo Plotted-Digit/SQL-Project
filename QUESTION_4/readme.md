@@ -60,10 +60,12 @@ ship2 as (select ShipMethod, Year, Month, AverageSale from temptable where Id = 
 
 #As full join isnt working we did an union of left and right join to get our required output
 #We arranged all sales for each shipping method side by side according to the month and year
-select ship1.Year, ship1.Month, concat_ws('/', ship1.Month, ship1.Year ) as FullDate, ship1.ShipMethod, ship1.AverageSale, ship2.ShipMethod, ship2.AverageSale
+select ship1.Year, ship1.Month, concat_ws('/', ship1.Month, ship1.Year ) as FullDate, ship1.ShipMethod,
+ship1.AverageSale, ship2.ShipMethod, ship2.AverageSale
 from ship1 left join ship2 on ship1.Year = ship2.Year and ship1.Month = ship2.Month
 union
-select ship1.Year, ship1.Month, concat_ws('/', ship1.Month, ship1.Year ) as FullDate, ship1.ShipMethod, ship1.AverageSale, ship2.ShipMethod, ship2.AverageSale
+select ship1.Year, ship1.Month, concat_ws('/', ship1.Month, ship1.Year ) as FullDate, ship1.ShipMethod,
+ship1.AverageSale, ship2.ShipMethod, ship2.AverageSale
 from ship1 right join ship2 on ship1.Year = ship2.Year and ship1.Month = ship2.Month
 order by Year, month
 ;
