@@ -44,7 +44,8 @@ use adventureworks;
 with TempTable as(
 
 #Select required columns from required tables
-SELECT salesorderheadersalesreason.SalesReasonID, salesreason.Name, salesreason.ReasonType, round(sum(salesorderheader.TotalDue), 4) as Sales
+SELECT salesorderheadersalesreason.SalesReasonID, salesreason.Name, salesreason.ReasonType,
+round(sum(salesorderheader.TotalDue), 4) as Sales
 
 #Select base table
 FROM salesorderheader

@@ -23,7 +23,7 @@ The project's deliverables include the following:
 
 - **SQL Query File**: Contains the SQL queries used to generate data for solving each problem statement.
 - **OUTPUT**: OUTPUT TABLE.
-- **BAR CHART**: BAR CHART.
+- **LINE CHART**: LINE CHART.
 
 ## Problem Statements
 
@@ -105,7 +105,8 @@ THE TABLE OF OUTPUT DATA
 
 ![Table Output of Data](q5-d.png)
 
-THE LINE CHART CREATED FOR MAX AND MIN SALE FOR EACH MONTH DONE BY CARD TYPE
+THE LINE CHART CREATED FOR MAX AND MIN SALE FOR EACH MONTH DONE BY CARD TYPE\
+WE REMOVED ALL PAYMENT DATA WHERE NO CARD DETAILS WERE PROVIDED.
 
 ![Bar Chart of Data](q5-1.png)
 
