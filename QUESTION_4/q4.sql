@@ -7,7 +7,7 @@ with
 #This table is to group all sales for each shipping method
 temptable as(
 SELECT shipmethod.ShipMethodID as Id, shipmethod.Name as ShipMethod, year(ShipDate) as Year,
-month(ShipDate) as Month, round(sum(TotalDue)/count(salesorderheader.ShipMethodID), 4) as AverageSale
+monthname(ShipDate) as Month, round(sum(TotalDue)/count(salesorderheader.ShipMethodID), 4) as AverageSale
 FROM adventureworks.salesorderheader 
 left join shipmethod on salesorderheader.ShipMethodID = shipmethod.ShipMethodID
 group by Year, month, Id, ShipMethod
