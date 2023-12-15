@@ -1,4 +1,5 @@
 with basetable as (
+    --Gather all sale details as a table
     SELECT TerritoryID,
         SalesPersonID,
         year(ShipDate) as shipyear,
@@ -17,6 +18,7 @@ with basetable as (
         SalesPersonID
 ),
 datatable as (
+    --Get all top 3 selling sales persons
     select TerritoryID as TerritoryType,
         shipyear as Year,
         shipmonth as Month,
@@ -30,10 +32,12 @@ datatable as (
         or row_id = 3
 ),
 dates as (
+    --Get a date list for each month of each year to use it as a base table
     select distinct(datecode)
     from datatable
 ),
 topsale1 as (
+    --Get the top saler for each territory
     select datatable.TerritoryType,
         datatable.Year,
         datatable.Month,
@@ -46,6 +50,7 @@ topsale1 as (
         and datatable.SaleRank = 1
 ),
 topsale2 as (
+    --Get the second top saler for each territory
     select datatable.TerritoryType,
         datatable.Year,
         datatable.Month,
@@ -58,6 +63,7 @@ topsale2 as (
         and datatable.SaleRank = 2
 ),
 topsale3 as (
+    --Get the 3rd top saler for each territory
     select datatable.TerritoryType,
         datatable.Year,
         datatable.Month,
@@ -70,6 +76,7 @@ topsale3 as (
         and datatable.SaleRank = 3
 ),
 salewithrank as (
+    --Put 1st, 2nd and 3rd top sellers side by side with their selling amount
     select dates.datecode as monthyear,
         topsale1.year as Year,
         topsale1.month as Month,
@@ -99,7 +106,7 @@ select salesterritory.Name as TerritoryName,
     salewithrank.3ndTopSalesPerson,
     salewithrank.3rdTopSaleAmt
 from salewithrank
-    left join salesterritory on salesterritory.TerritoryID = salewithrank.Territory
+    left join salesterritory on salesterritory.TerritoryID = salewithrank.Territory --Get territory names as per territory id
 order by Territory,
     Year,
     Month;
