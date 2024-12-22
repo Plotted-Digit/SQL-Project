@@ -8,13 +8,13 @@
 - [Database Diagram](#Database-Diagram)
 - [Deliverables](#Deliverables)
 - [Problem Statement](#Problem-Statement)
-- [Solution of 1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1)
-- [Solution of 2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2)
-- [Solution of 3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3)
-- [Solution of 4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4)
-- [Solution of 5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5)
-- [Solution of 6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6)
-- [Solution of 7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
+- [Solution of 1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1/readme.md)
+- [Solution of 2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2/readme.md)
+- [Solution of 3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3/readme.md)
+- [Solution of 4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4/readme.md)
+- [Solution of 5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5/readme.md)
+- [Solution of 6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6/readme.md)
+- [Solution of 7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7/readme.md)
 - [Navigation](#Navigation)
 
 
@@ -108,4 +108,4 @@ Create a table to depict this information.\
 
 ## Navigation
 
-[Main Page](https://github.com/Plotted-Digit/SQL-Project/) &nbsp; [1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1) &nbsp; [2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2) &nbsp; [3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3) &nbsp; [4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4) &nbsp; [5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5) &nbsp; [6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6) &nbsp; [7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7)
+[Main Page](https://github.com/Plotted-Digit/SQL-Project/) &emsp; [1st Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_1/readme.md) &emsp; [2nd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_2/readme.md) &emsp; [3rd Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_3/readme.md) &emsp; [4th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_4/readme.md) &emsp; [5th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_5/readme.md) &emsp; [6th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_6/readme.md) &emsp; [7th Problem](https://github.com/Plotted-Digit/SQL-Project/tree/main/QUESTION_7/readme.md)
